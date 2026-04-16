@@ -1,16 +1,35 @@
-## Hi there 👋
+# AI & Software Engineering Undergraduate
 
-<!--
-**eapyk/eapyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Student | AI & Software & Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am an engineering undergraduate focused on Artificial Intelligence, Software Development, and Web Technologies.  
+I enjoy learning core concepts and building practical projects.
+
+---
+
+## Interests
+
+- Artificial Intelligence & Machine Learning
+- Software Development
+- Web Development
+
+---
+
+## Tech Stack
+
+- Python
+- Java
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## Goal
+
+To become an AI Engineer and build useful real-world systems.
+
+---
