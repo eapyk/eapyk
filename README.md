@@ -1,7 +1,5 @@
 # AI & Software Engineering Undergraduate
 
-🎓 Undergraduate Student | AI & Software & Web Developer
-
 ---
 
 ## About Me
@@ -25,11 +23,3 @@ I enjoy learning core concepts and building practical projects.
 - Java
 - HTML, CSS, JavaScript
 - Git & GitHub
-
----
-
-## Goal
-
-To become an AI Engineer and build useful real-world systems.
-
----
