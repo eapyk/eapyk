@@ -20,6 +20,8 @@ I enjoy learning core concepts and building practical projects.
 ## Tech Stack
 
 - Python
-- Java
-- HTML, CSS, JavaScript
+- C++
+- TensorFlow
+- Docker
+- PyTorch
 - Git & GitHub
