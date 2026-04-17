@@ -1,4 +1,4 @@
-# AI & Software Engineering Undergraduate
+# AI Engineering Undergraduate
 
 ## About Me
 
